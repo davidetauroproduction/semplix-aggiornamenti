@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Semplix</title>
+        <item>
+            <title>1.2.3</title>
+            <pubDate>Mon, 09 Nov 2026 16:44:36 +0100</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul>
+<li>I lavori affidati ai collaboratori ora si aprono in un popup separato, divisi per collaboratore</li>
+<li>Nell'elenco dei Lavori restano solo i tuoi lavori, sotto «I tuoi lavori»</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.3.dmg" length="3649555" type="application/octet-stream" sparkle:edSignature="eU3yHgONDqbZIw0pg6r0/LAtrtr4JqSYkslLolfLH+Bp4mkpi6ImjCPxTTzMjQrLZ3TRWFIPimDR/qdbN8VBAw=="/>
+        </item>
+    </channel>
+</rss>
