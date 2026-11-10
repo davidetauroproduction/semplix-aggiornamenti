@@ -3,6 +3,20 @@
     <channel>
         <title>Semplix</title>
         <item>
+            <title>1.2.4</title>
+            <pubDate>Tue, 10 Nov 2026 13:40:44 +0100</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul>
+<li>Backup online con un clic su Dropbox e Google Drive: premi Collega e accedi al tuo account.</li>
+<li>Semplix vede solo i file di backup che crea, non il resto del tuo cloud.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.4.dmg" length="3655388" type="application/octet-stream" sparkle:edSignature="abUJ9WlwK458y1cFxzKTvUeTkf71g//TwEpMZfLDSyjugLl6KzJMh+YYqxJBtj06dh7QK97N1Yom59ShKB7ADw=="/>
+        </item>
+        <item>
             <title>1.2.3</title>
             <pubDate>Mon, 09 Nov 2026 16:44:36 +0100</pubDate>
             <sparkle:version>19</sparkle:version>
