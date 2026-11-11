@@ -21,24 +21,6 @@
             <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.7.dmg" length="4137564" type="application/octet-stream" sparkle:edSignature="WTQTB28PEeHm4t04PgbnLjpoIrxL7xRmXPczDw7S1jtDXteLugu6Ipim0keWR7JtR3WbSUa3JjrAk/kMae7aCw=="/>
         </item>
         <item>
-            <title>1.2.7</title>
-            <pubDate>Wed, 11 Nov 2026 02:15:02 +0100</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<ul>
-<li>Nuovi riepiloghi della settimana, del mese e dell'anno con i tuoi numeri: un avviso ti dice quando sono pronti, e se l'hai già visto si riapre sull'ultima pagina con «Rivedi».</li>
-<li>Barra in alto più ordinata: quando lo spazio si stringe pulsanti e schede passano alle sole icone, e passando il mouse compare il nome.</li>
-<li>La sezione «Gestione cassa» ora si chiama semplicemente «Cassa».</li>
-<li>Nuovo pulsante «Segnala un problema» in basso a destra: puoi allegare la foto della finestra, con i dati sensibili oscurati, oppure un'immagine tua.</li>
-<li>Nuova animazione di apertura con il saluto: si salta con un clic e si spegne in Impostazioni › Generale.</li>
-<li>Le Impostazioni si chiudono anche cliccando sulla finestra principale.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.7.dmg" length="4137017" type="application/octet-stream" sparkle:edSignature="9iTYtVdmf9r6FEhL7qhI3Z5oaeQPdMXZZLD5lBtpD1nIiPfmAonVLHRIWEQLHNv2PJbRFB9iQsCd6LFxqSSDBQ=="/>
-        </item>
-        <item>
             <title>1.2.6</title>
             <pubDate>Tue, 10 Nov 2026 20:51:17 +0100</pubDate>
             <sparkle:version>22</sparkle:version>
