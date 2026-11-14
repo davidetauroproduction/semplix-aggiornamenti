@@ -3,6 +3,24 @@
     <channel>
         <title>Semplix</title>
         <item>
+            <title>1.2.8</title>
+            <pubDate>Sat, 14 Nov 2026 04:26:40 +0100</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul>
+<li>Nuovo design in tutta l'app: menu laterale che si socchiude, nuova barra in alto, sezioni ridisegnate.</li>
+<li>Creazione e dettagli in un pannello che entra da destra: incassi, uscite, lavori, collaboratori, eventi.</li>
+<li>Cassa: nuovo Bilancio con grafico entrate e uscite, pagina Fornitori e servizi, mese e anno accanto alle schede.</li>
+<li>Collaboratori: elenco a colonna e scheda della persona con i lavori affidati.</li>
+<li>Riepiloghi, notifiche e widget nel nuovo stile.</li>
+<li>App più veloce: Calendario e passaggio del mouse sugli elenchi molto più fluidi.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.8.dmg" length="4844843" type="application/octet-stream" sparkle:edSignature="rWjMQatF0Nrj+bg8t5sExCv2VV+PuoDR88qwBFMQZOvRasCxisrPSHRAJCI2/gYn67FEobxsrjqIHLvtAd31DQ=="/>
+        </item>
+        <item>
             <title>1.2.7</title>
             <pubDate>Wed, 11 Nov 2026 02:15:02 +0100</pubDate>
             <sparkle:version>24</sparkle:version>
