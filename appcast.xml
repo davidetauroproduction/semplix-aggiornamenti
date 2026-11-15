@@ -5,7 +5,7 @@
         <item>
             <title>1.2.9</title>
             <pubDate>Sun, 15 Nov 2026 21:47:17 +0100</pubDate>
-            <sparkle:version>27</sparkle:version>
+            <sparkle:version>28</sparkle:version>
             <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -18,30 +18,10 @@
 <li>Home di Oggi personalizzabile e menu laterale riordinabile tenendo premuto.</li>
 <li>Annulla dopo un'eliminazione (⌘Z), sollecito di pagamento via WhatsApp o email, promemoria della sera prima.</li>
 <li>Report di Cassa in PDF o Excel, scorciatoie da tastiera (⌘/), notifiche in tempo reale e animazioni leggere.</li>
-<li>Corretto il recupero della password: dopo il codice ricevuto via email Semplix aspetta che tu scelga la nuova password, senza aprirsi da sola.</li>
+<li>Correzioni: il recupero della password aspetta che tu scelga la nuova password, e i pulsanti della finestra restano sempre al loro posto.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.9.dmg" length="5717974" type="application/octet-stream" sparkle:edSignature="NrM/32iW63sIQA99/jlHI764B1jj/172PXnEve3jvTxuAnemRgulCMosaPa8c6Op7TY6WzIwiI4R535CvyVcCw=="/>
-        </item>
-        <item>
-            <title>1.2.9</title>
-            <pubDate>Sun, 15 Nov 2026 21:47:17 +0100</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<ul>
-<li>Semplix Cloud: i tuoi dati su tutti i tuoi Mac, cifrati end-to-end. Nessuno può leggerli, nemmeno noi. 5 GB inclusi.</li>
-<li>Kit di emergenza con la chiave di recupero e collegamento di un nuovo Mac approvandolo da quello che usi già.</li>
-<li>Collegamenti tra utenti Semplix: chi ti paga ti mostra compensi e pagamenti che ti riguardano, le richieste arrivano nella campanella.</li>
-<li>Il mio account nella tendina in alto a sinistra: profilo, foto, email e password, piano e abbonamento.</li>
-<li>Un solo pulsante d'azione per sezione, Calendario con vista Anno e modifica degli eventi.</li>
-<li>Home di Oggi personalizzabile e menu laterale riordinabile tenendo premuto.</li>
-<li>Annulla dopo un'eliminazione (⌘Z), sollecito di pagamento via WhatsApp o email, promemoria della sera prima.</li>
-<li>Report di Cassa in PDF o Excel, scorciatoie da tastiera (⌘/), notifiche in tempo reale e animazioni leggere.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.9.dmg" length="5716794" type="application/octet-stream" sparkle:edSignature="R3WneCi0lT2HmPTBUTXuCo0ctgkYr3g1B9zJRtg11KO2ezI/XxXvi0LCSSU/hHMOUk5T5OIi3tqeQDOPYzLKAg=="/>
+            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.9.dmg" length="5719275" type="application/octet-stream" sparkle:edSignature="KdbYgRFkDtRb12VXfHmIoVZnjH/1TejopgBBeyseSRAEAa40vHK6cwn0SEFbT5JhCL0e3nyJ7xbKGJlHf3LoCQ=="/>
         </item>
         <item>
             <title>1.2.8</title>
@@ -78,22 +58,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.7.dmg" length="4137564" type="application/octet-stream" sparkle:edSignature="WTQTB28PEeHm4t04PgbnLjpoIrxL7xRmXPczDw7S1jtDXteLugu6Ipim0keWR7JtR3WbSUa3JjrAk/kMae7aCw=="/>
-        </item>
-        <item>
-            <title>1.2.6</title>
-            <pubDate>Tue, 10 Nov 2026 20:51:17 +0100</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>1.2.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<ul>
-<li>Nuova campanella in alto a destra: messaggi, novità delle versioni e avvisi quando la licenza sta per scadere.</li>
-<li>Barra in alto sistemata sugli schermi piccoli (MacBook 13 pollici): niente più sovrapposizioni.</li>
-<li>In inglese ora sono tradotti anche fasi di lavorazione, menu a tendina e servizi.</li>
-<li>Nuova opzione per condividere statistiche di utilizzo anonime, disattivabile in Impostazioni › Generale.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.6.dmg" length="3903531" type="application/octet-stream" sparkle:edSignature="4BmKY1mk56GZOVwnsujQViXHIBgoMWc0dCICjt83OqpUWgH4URWPPRFQBZHO1zOS/+hhdds3oRJJ459wsp9JCg=="/>
         </item>
     </channel>
 </rss>
