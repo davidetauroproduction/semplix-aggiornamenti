@@ -3,6 +3,15 @@
   <channel>
     <title>Semplix per Windows</title>
     <item>
+      <title>Semplix 1.0.3</title>
+      <pubDate>Mon, 16 Nov 2026 16:40:50 +0100</pubDate>
+      <sparkle:version>1.0.3</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>Collegamenti quasi in tempo reale: i riepiloghi arrivano a chi lavora con te pochi secondi dopo ogni modifica</li><li>Nuovo avviso degli aggiornamenti, uguale al Mac</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/windows/Semplix-1.0.3-Setup.exe" sparkle:os="windows"
+                 sparkle:installerArguments="/S" type="application/octet-stream" sparkle:edSignature="DABK3AwQUD5+cw+77l79RBF0ttx/Rb8z73yd0gJf45WX46bwunVbRMwsr2XWVZcF9Rzv+wIvSpPl7WSAHREoCg==" length="46035531" />
+    </item>
+    <item>
       <title>Semplix 1.0.2</title>
       <pubDate>Mon, 16 Nov 2026 16:10:59 +0100</pubDate>
       <sparkle:version>1.0.2</sparkle:version>
