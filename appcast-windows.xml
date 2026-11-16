@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Semplix per Windows</title>
+    <item>
+      <title>Semplix 1.0.1</title>
+      <pubDate>Mon, 16 Nov 2026 15:51:59 +0100</pubDate>
+      <sparkle:version>1.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>Menu laterale con i numeri delle sezioni e il riquadro «Lavori chiusi», come sul Mac</li><li>Pulsanti dorati leggibili anche con il tema scuro</li><li>La finestra si adatta quando la ridimensioni: barra in alto e menu si sistemano da soli</li><li>Campanella più chiara</li><li>Semplix più leggera e protetta</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/windows/Semplix-1.0.1-Setup.exe" sparkle:os="windows"
+                 sparkle:installerArguments="/S" type="application/octet-stream" sparkle:edSignature="Jr/q9lL6iL/ufI5nIYnXhqZkNR8s0dt33Z0pVyWuQHtfpY2Nry+tfKwS9hVr94DGxiQfRtWSas6yFF2+INC1BA==" length="47263260" />
+    </item>
+  </channel>
+</rss>
