@@ -5,7 +5,7 @@
         <item>
             <title>1.2.9</title>
             <pubDate>Sun, 15 Nov 2026 21:47:17 +0100</pubDate>
-            <sparkle:version>28</sparkle:version>
+            <sparkle:version>29</sparkle:version>
             <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -21,7 +21,7 @@
 <li>Correzioni: il recupero della password aspetta che tu scelga la nuova password, e i pulsanti della finestra restano sempre al loro posto.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.9.dmg" length="5719275" type="application/octet-stream" sparkle:edSignature="KdbYgRFkDtRb12VXfHmIoVZnjH/1TejopgBBeyseSRAEAa40vHK6cwn0SEFbT5JhCL0e3nyJ7xbKGJlHf3LoCQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.9.dmg" length="5719308" type="application/octet-stream" sparkle:edSignature="DsOQGFqvWe93UFmKp5GfIjNelc8X2kVzdLY0V9AR81t0GkHrdPye8SYx2bqtDSCY1eywHhola9ypbaesyq8GBQ=="/>
         </item>
         <item>
             <title>1.2.8</title>
