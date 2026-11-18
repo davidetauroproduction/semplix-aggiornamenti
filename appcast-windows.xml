@@ -3,6 +3,15 @@
   <channel>
     <title>Semplix per Windows</title>
     <item>
+      <title>Semplix 1.0.6</title>
+      <pubDate>Wed, 18 Nov 2026 18:02:47 +0100</pubDate>
+      <sparkle:version>1.0.6</sparkle:version>
+      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>Gli appuntamenti segnati dal sito mysemplix.com, anche dal telefono, entrano da soli nel tuo calendario</li><li>Lavori e incassi creati dal sito si collegano all&#x27;evento, senza doppioni</li><li>Il browser collegato compare tra i tuoi dispositivi</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/windows/Semplix-1.0.6-Setup.exe" sparkle:os="windows"
+                 sparkle:installerArguments="/S" type="application/octet-stream" sparkle:edSignature="GnonTpG981PqyNg9Pk3vsoi9U9pxQAMUCRGxvB/rR2sNvNMBH4RL/CfNJ9+1pu5DB7Q49vP4/A3pYy4XTjliCg==" length="46090668" />
+    </item>
+    <item>
       <title>Semplix 1.0.5</title>
       <pubDate>Wed, 18 Nov 2026 11:39:52 +0100</pubDate>
       <sparkle:version>1.0.5</sparkle:version>
