@@ -3,6 +3,25 @@
     <channel>
         <title>Semplix</title>
         <item>
+            <title>1.2.10</title>
+            <pubDate>Wed, 18 Nov 2026 03:13:25 +0100</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.2.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul>
+<li>Collegamenti: tocchi il nome di chi ti ha collegato e si apre la sua scheda, con foto, lavoro e telefono se lo condivide. Accettare una richiesta non aggiunge più nessuno da solo: poi scegli tu se aggiungerlo ai collaboratori, e se hai già qualcuno con lo stesso nome Semplix ti chiede se è lui.</li>
+<li>I pagamenti dei collaboratori collegati ti arrivano in pochi secondi.</li>
+<li>Inviti agli eventi: partono da soli, con i pulsanti Sì / No / Forse. Alle tue email arriva l'evento completo, agli altri solo titolo, data, luogo e servizi.</li>
+<li>Email a box nei campi Invita, Impostazioni e preventivi; suggerimenti con le email che usi di più.</li>
+<li>Email vere: le email temporanee e gli indirizzi inesistenti non sono accettati.</li>
+<li>Anteprima del preventivo adattata alla finestra, con zoom (⌘ + rotellina, pizzico, spazio per tornare).</li>
+<li>Menu del tasto destro, tendine e conferme ora nello stile di Semplix.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.10.dmg" length="5904595" type="application/octet-stream" sparkle:edSignature="PhWeshEfltDnl+GYbIQ+/rg/bnHl6ot+SVam2yX0RYayZG5bJHyToW2AcIQKKHZmdQSd2RbzsLFGYa5ChYwUDA=="/>
+        </item>
+        <item>
             <title>1.2.9</title>
             <pubDate>Sun, 15 Nov 2026 21:47:17 +0100</pubDate>
             <sparkle:version>29</sparkle:version>
