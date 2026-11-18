@@ -3,6 +3,15 @@
   <channel>
     <title>Semplix per Windows</title>
     <item>
+      <title>Semplix 1.0.5</title>
+      <pubDate>Wed, 18 Nov 2026 11:39:52 +0100</pubDate>
+      <sparkle:version>1.0.5</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>• Nuova schermata di accesso: campi più grandi e «Ricorda la mia email»</li><li>• Recupero password con il codice di 6 cifre nelle caselle</li><li>• Registrazione più semplice, con i lavori a pillole</li><li>• Scelte, pulsanti «− +» e segmenti nello stile di Semplix</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/windows/Semplix-1.0.5-Setup.exe" sparkle:os="windows"
+                 sparkle:installerArguments="/S" type="application/octet-stream" sparkle:edSignature="And4WcHrajCovkW68GY5Mn9ZVh7vkMAZ5BYlYlT5uxpwFRr7eHscd+fIC6EGyzRLo0t3ccIf919+j+gZUaVbAg==" length="46076485" />
+    </item>
+    <item>
       <title>Semplix 1.0.4</title>
       <pubDate>Wed, 18 Nov 2026 03:15:17 +0100</pubDate>
       <sparkle:version>1.0.4</sparkle:version>
