@@ -3,6 +3,22 @@
     <channel>
         <title>Semplix</title>
         <item>
+            <title>1.3.0</title>
+            <pubDate>Wed, 18 Nov 2026 11:29:29 +0100</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul>
+<li>Nuova schermata di accesso, più moderna: campi grandi, «Ricorda la mia email» e un riquadro con le novità di Semplix.</li>
+<li>Recupero della password più semplice: il codice di 6 cifre si scrive nelle sue caselle, poi scegli la nuova password.</li>
+<li>Registrazione rinnovata: scegli i tuoi lavori con un clic (anche più di uno), come userai Semplix e, se ce l'hai, il coupon.</li>
+<li>Le scelte da elenco, i segmenti e i pulsanti − + ora sono nello stile di Semplix.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.3.0.dmg" length="5938614" type="application/octet-stream" sparkle:edSignature="QuqaHVdlJY2TjLyfvyWTAqMYyT0OGzqgxJbzCFaZi1hT9cdbqlbN0dclosvn8f8xirwKaSJddak7Ae+dga6DBA=="/>
+        </item>
+        <item>
             <title>1.2.10</title>
             <pubDate>Wed, 18 Nov 2026 03:13:25 +0100</pubDate>
             <sparkle:version>30</sparkle:version>
