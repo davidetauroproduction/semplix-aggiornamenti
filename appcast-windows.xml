@@ -3,6 +3,15 @@
   <channel>
     <title>Semplix per Windows</title>
     <item>
+      <title>Semplix 1.0.4</title>
+      <pubDate>Wed, 18 Nov 2026 03:15:17 +0100</pubDate>
+      <sparkle:version>1.0.4</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>• Scheda dei collegati: clicca nome o foto per vedere chi ti ha collegato</li><li>• Aggiungi chi ti ha collegato ai tuoi collaboratori, con «È lui?» se hai già qualcuno con lo stesso nome</li><li>• Pagamenti dei collegati aggiornati in tempo reale</li><li>• Inviti agli eventi spediti da Semplix, con Sì / No / Forse nel calendario di chi li riceve</li><li>• Email a box: scrivi un indirizzo e diventa una pillola, con un clic lo correggi</li><li>• Solo email vere: niente indirizzi usa-e-getta</li><li>• Anteprima del preventivo a pagina intera, con lo zoom (Ctrl + rotellina)</li><li>• Menu, tendine e conferme nello stile di Semplix</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/windows/Semplix-1.0.4-Setup.exe" sparkle:os="windows"
+                 sparkle:installerArguments="/S" type="application/octet-stream" sparkle:edSignature="9Yl5vEIPPQcgp25M8jB7R7ASV5Co5iilyBr7ImgLBazuk4O/H/G41Fl/uxsy25anYgZ0svntZbrs+8e6taXqAw==" length="46070723" />
+    </item>
+    <item>
       <title>Semplix 1.0.3</title>
       <pubDate>Mon, 16 Nov 2026 16:40:50 +0100</pubDate>
       <sparkle:version>1.0.3</sparkle:version>
