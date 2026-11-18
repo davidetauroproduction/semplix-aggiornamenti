@@ -3,6 +3,22 @@
     <channel>
         <title>Semplix</title>
         <item>
+            <title>1.3.1</title>
+            <pubDate>Wed, 18 Nov 2026 15:14:50 +0100</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul>
+<li>Gli appuntamenti segnati dal sito mysemplix.com, anche dal telefono, entrano da soli nel tuo calendario</li>
+<li>Lavori e incassi creati dal sito si collegano all'evento, senza doppioni</li>
+<li>In Impostazioni › Generale scegli in quale calendario far arrivare gli appuntamenti dal web</li>
+<li>Il browser collegato compare tra i tuoi dispositivi in Il mio account › Semplix Cloud</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.3.1.dmg" length="5971238" type="application/octet-stream" sparkle:edSignature="+7WAQcZ/axy8psi4GUnkpoYbaZCd6E/ZmL5egAI/iZV4mBaybbpuBG0DRlEIGphzV/F5G5qZKQ+xHJEoKHX3AQ=="/>
+        </item>
+        <item>
             <title>1.3.0</title>
             <pubDate>Wed, 18 Nov 2026 11:29:29 +0100</pubDate>
             <sparkle:version>31</sparkle:version>
@@ -75,24 +91,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.8.dmg" length="4844843" type="application/octet-stream" sparkle:edSignature="rWjMQatF0Nrj+bg8t5sExCv2VV+PuoDR88qwBFMQZOvRasCxisrPSHRAJCI2/gYn67FEobxsrjqIHLvtAd31DQ=="/>
-        </item>
-        <item>
-            <title>1.2.7</title>
-            <pubDate>Wed, 11 Nov 2026 02:15:02 +0100</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<ul>
-<li>Nuovi riepiloghi della settimana, del mese e dell'anno con i tuoi numeri: un avviso ti dice quando sono pronti, e se l'hai già visto si riapre sull'ultima pagina con «Rivedi».</li>
-<li>Barra in alto più ordinata: quando lo spazio si stringe pulsanti e schede passano alle sole icone, e passando il mouse compare il nome.</li>
-<li>La sezione «Gestione cassa» ora si chiama semplicemente «Cassa».</li>
-<li>Nuovo pulsante «Segnala un problema» in basso a destra: puoi allegare la foto della finestra, con i dati sensibili oscurati, oppure un'immagine tua.</li>
-<li>Nuova animazione di apertura con il saluto: si salta con un clic e si spegne in Impostazioni › Generale.</li>
-<li>Impostazioni più comode: si aprono sempre al primo clic sulla rotella e si chiudono cliccando sulla finestra principale.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.7.dmg" length="4137564" type="application/octet-stream" sparkle:edSignature="WTQTB28PEeHm4t04PgbnLjpoIrxL7xRmXPczDw7S1jtDXteLugu6Ipim0keWR7JtR3WbSUa3JjrAk/kMae7aCw=="/>
         </item>
     </channel>
 </rss>
