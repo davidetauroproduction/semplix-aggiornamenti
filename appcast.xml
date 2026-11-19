@@ -5,18 +5,20 @@
         <item>
             <title>1.3.1</title>
             <pubDate>Wed, 18 Nov 2026 15:14:50 +0100</pubDate>
-            <sparkle:version>32</sparkle:version>
+            <sparkle:version>33</sparkle:version>
             <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<ul>
+<li>Registrazione migliorata: scegli il tuo lavoro (anche più di uno) e Semplix prepara i servizi e le tipologie giuste per il «Nuovo evento»</li>
+<li>Nuovi lavori: Social media manager, Agenzia di marketing e Content creator</li>
+<li>In Impostazioni › Servizi puoi cambiare o aggiungere lavori e confrontare i tuoi servizi con quelli consigliati, anche le tipologie</li>
 <li>Gli appuntamenti segnati dal sito mysemplix.com, anche dal telefono, entrano da soli nel tuo calendario</li>
 <li>Lavori e incassi creati dal sito si collegano all'evento, senza doppioni</li>
 <li>In Impostazioni › Generale scegli in quale calendario far arrivare gli appuntamenti dal web</li>
-<li>Il browser collegato compare tra i tuoi dispositivi in Il mio account › Semplix Cloud</li>
 </ul>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.3.1.dmg" length="5971238" type="application/octet-stream" sparkle:edSignature="+7WAQcZ/axy8psi4GUnkpoYbaZCd6E/ZmL5egAI/iZV4mBaybbpuBG0DRlEIGphzV/F5G5qZKQ+xHJEoKHX3AQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.3.1.dmg" length="6075497" type="application/octet-stream" sparkle:edSignature="Jc/PzlWtMp1hHnwgrDOVDFg/vNOcJPhUEaE1EK6Y9GHnQ0Atl5VdiS0RC4SrobWnK9xnzq6WL0sU5nqUfIHqAw=="/>
         </item>
         <item>
             <title>1.3.0</title>
@@ -73,24 +75,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.9.dmg" length="5719308" type="application/octet-stream" sparkle:edSignature="DsOQGFqvWe93UFmKp5GfIjNelc8X2kVzdLY0V9AR81t0GkHrdPye8SYx2bqtDSCY1eywHhola9ypbaesyq8GBQ=="/>
-        </item>
-        <item>
-            <title>1.2.8</title>
-            <pubDate>Sat, 14 Nov 2026 04:26:40 +0100</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<ul>
-<li>Nuovo design in tutta l'app: menu laterale che si socchiude, nuova barra in alto, sezioni ridisegnate.</li>
-<li>Creazione e dettagli in un pannello che entra da destra: incassi, uscite, lavori, collaboratori, eventi.</li>
-<li>Cassa: nuovo Bilancio con grafico entrate e uscite, pagina Fornitori e servizi, mese e anno accanto alle schede.</li>
-<li>Collaboratori: elenco a colonna e scheda della persona con i lavori affidati.</li>
-<li>Riepiloghi, notifiche e widget nel nuovo stile.</li>
-<li>App più veloce: Calendario e passaggio del mouse sugli elenchi molto più fluidi.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.8.dmg" length="4844843" type="application/octet-stream" sparkle:edSignature="rWjMQatF0Nrj+bg8t5sExCv2VV+PuoDR88qwBFMQZOvRasCxisrPSHRAJCI2/gYn67FEobxsrjqIHLvtAd31DQ=="/>
         </item>
     </channel>
 </rss>
