@@ -3,6 +3,15 @@
   <channel>
     <title>Semplix per Windows</title>
     <item>
+      <title>Semplix 1.0.7</title>
+      <pubDate>Fri, 20 Nov 2026 15:38:13 +0100</pubDate>
+      <sparkle:version>1.0.7</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>Gli aggiornamenti arrivano da soli: un popup di Semplix li scarica e li installa, anche dalla schermata di accesso.</li><li>Invitare un collega non toglie mai l&#x27;evento dal tuo calendario, con Google e con iCloud.</li><li>Se un invito aveva tolto degli eventi dal tuo calendario Google, Semplix ti propone di rimetterli.</li><li>Nuova scelta del piano e pagamento sicuro con Paddle (in arrivo).</li><li>Termini di servizio, privacy e rimborsi ora sono su mysemplix.com.</li><li>I messaggi di Semplix tengono il giallo originale, anche se hai scelto un altro colore principale.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/windows/Semplix-1.0.7-Setup.exe" sparkle:os="windows"
+                 sparkle:installerArguments="/S" type="application/octet-stream" sparkle:edSignature="98oaq529CG1N1AWcndbaFmsSsaBLlcU6wujAw3xDRkwx26k7VEiVJpSTrLmIrvRW8PYAKARpVC8tfWiQjS/XDA==" length="46494750" />
+    </item>
+    <item>
       <title>Semplix 1.0.6</title>
       <pubDate>Thu, 19 Nov 2026 01:08:24 +0100</pubDate>
       <sparkle:version>1.0.6.1</sparkle:version>
