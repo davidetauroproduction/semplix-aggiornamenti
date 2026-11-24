@@ -3,6 +3,15 @@
   <channel>
     <title>Semplix per Windows</title>
     <item>
+      <title>Semplix 1.0.8</title>
+      <pubDate>Tue, 24 Nov 2026 13:29:55 +0100</pubDate>
+      <sparkle:version>1.0.8</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>Lavori più semplici: tre schede, i filtri in «Filtri» e l&#x27;elenco diviso in Urgenti, In lavorazione e In attesa. Trascina un lavoro da un gruppo all&#x27;altro.</li><li>Nuova sezione Clienti: aziende e privati con lavori, eventi, preventivi e incassi in un posto solo.</li><li>Nuovo evento: il campo «Lavoro» in alto e il titolo «Lavoro – Cliente» nel calendario.</li><li>Il campo Cliente ti suggerisce i clienti della rubrica.</li><li>Il menu del tasto destro resta sempre dentro lo schermo.</li><li>«Verifica aggiornamenti…» anche in Impostazioni › Generale.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/windows/Semplix-1.0.8-Setup.exe" sparkle:os="windows"
+                 sparkle:installerArguments="/S" type="application/octet-stream" sparkle:edSignature="ZS7LNxe8S+b4NzqBO4unL4ZBmS54Bap7OPNbdeGHhbq5UtA+blQUQ101oMgbMDsaZHGxAePxumKafdzoqge7Ag==" length="46520211" />
+    </item>
+    <item>
       <title>Semplix 1.0.7</title>
       <pubDate>Fri, 20 Nov 2026 15:38:13 +0100</pubDate>
       <sparkle:version>1.0.7</sparkle:version>
