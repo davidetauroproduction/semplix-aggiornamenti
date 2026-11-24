@@ -3,6 +3,24 @@
     <channel>
         <title>Semplix</title>
         <item>
+            <title>1.3.3</title>
+            <pubDate>Tue, 24 Nov 2026 13:33:47 +0100</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul>
+<li>Lavori più semplici: tre schede, «Filtri» e i gruppi Urgenti, In lavorazione e In attesa: trascina un lavoro da un gruppo all'altro</li>
+<li>Nuova sezione Clienti: aziende e privati, con lavori, eventi, preventivi e incassi di ognuno</li>
+<li>Quando scrivi un cliente nuovo, Semplix ti chiede se salvarlo (anche con i tasti 1, 2, 3)</li>
+<li>Nuovo evento: campo «Lavoro», e nel calendario il titolo diventa «Lavoro – Cliente»</li>
+<li>Il menu del tasto destro mostra sempre tutte le fasi, anche in fondo alla pagina</li>
+<li>Gli appuntamenti fatti dal sito arrivano con il punto esatto sulla mappa</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.3.3.dmg" length="6299251" type="application/octet-stream" sparkle:edSignature="8lIMVyDxOp2c+bfVIj7Jkvq3MwPd82OwsjwxYygWMRNZOR+n0kYgs1eR5EkljaW0QNgYwZ8WnEaEyvpdRZouAw=="/>
+        </item>
+        <item>
             <title>1.3.2</title>
             <pubDate>Fri, 20 Nov 2026 15:25:58 +0100</pubDate>
             <sparkle:version>35</sparkle:version>
@@ -73,27 +91,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.10.dmg" length="5904595" type="application/octet-stream" sparkle:edSignature="PhWeshEfltDnl+GYbIQ+/rg/bnHl6ot+SVam2yX0RYayZG5bJHyToW2AcIQKKHZmdQSd2RbzsLFGYa5ChYwUDA=="/>
-        </item>
-        <item>
-            <title>1.2.9</title>
-            <pubDate>Sun, 15 Nov 2026 21:47:17 +0100</pubDate>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<ul>
-<li>Semplix Cloud: i tuoi dati su tutti i tuoi Mac, cifrati end-to-end. Nessuno può leggerli, nemmeno noi. 5 GB inclusi.</li>
-<li>Kit di emergenza con la chiave di recupero e collegamento di un nuovo Mac approvandolo da quello che usi già.</li>
-<li>Collegamenti tra utenti Semplix: chi ti paga ti mostra compensi e pagamenti che ti riguardano, le richieste arrivano nella campanella.</li>
-<li>Il mio account nella tendina in alto a sinistra: profilo, foto, email e password, piano e abbonamento.</li>
-<li>Un solo pulsante d'azione per sezione, Calendario con vista Anno e modifica degli eventi.</li>
-<li>Home di Oggi personalizzabile e menu laterale riordinabile tenendo premuto.</li>
-<li>Annulla dopo un'eliminazione (⌘Z), sollecito di pagamento via WhatsApp o email, promemoria della sera prima.</li>
-<li>Report di Cassa in PDF o Excel, scorciatoie da tastiera (⌘/), notifiche in tempo reale e animazioni leggere.</li>
-<li>Correzioni: il recupero della password aspetta che tu scelga la nuova password, e i pulsanti della finestra restano sempre al loro posto.</li>
-</ul>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/davidetauroproduction/semplix-aggiornamenti/main/Semplix-1.2.9.dmg" length="5719308" type="application/octet-stream" sparkle:edSignature="DsOQGFqvWe93UFmKp5GfIjNelc8X2kVzdLY0V9AR81t0GkHrdPye8SYx2bqtDSCY1eywHhola9ypbaesyq8GBQ=="/>
         </item>
     </channel>
 </rss>
